@@ -86,15 +86,6 @@ sns.countplot(x='Company', data=df)
 
 ---
 
-## 📂 Project Structure
-
-```
-📁 stock-viz-project/
-├── stock_data.csv           # Your dataset
-├── stock_visualizations.ipynb  # Jupyter/Colab Notebook
-└── README.md                # This file
-```
-
 ---
 
 ## ✅ What I Learned
