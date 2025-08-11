@@ -1,5 +1,3 @@
-
-````markdown
 # 📊 Stock Market Data Visualization using Matplotlib and Seaborn
 
 This is a mini data visualization project created using **Python**, **Pandas**, **Matplotlib**, and **Seaborn**.  
